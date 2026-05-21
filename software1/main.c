@@ -18,7 +18,7 @@ int main() {
     }
 
 END:
-    printf("Program finished\n");
+    printf("Loop terminated at 7,7,7\n");
 
     return 0;
 }
