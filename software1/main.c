@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("Start program\n");
     int i, j, k;
 
     for (i = 0; i <= 10; i++) {
