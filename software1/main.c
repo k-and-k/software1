@@ -18,7 +18,7 @@ int main() {
     }
 
 END:
-    printf("Program finished\n");
+    printf("Program terminated when i=j=k=7\n");
 
     return 0;
 }
